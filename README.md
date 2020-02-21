@@ -2,6 +2,8 @@
 
 Le polycopié du cours est disponible sur https://heig-vd-tin.github.io/info-handout/.
 
+Exemple de règles de codage : https://google.github.io/styleguide/cppguide.html 
+
 # Activités cours/labo
 | Date | Activité | Commentaire |
 |---|---|---|
