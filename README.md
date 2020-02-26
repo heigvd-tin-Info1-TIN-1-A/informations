@@ -6,8 +6,11 @@ Pour le format PDF :  https://github.com/heig-vd-tin/info-handout/releases.
 
 Exemple de règles de codage : https://google.github.io/styleguide/cppguide.html 
 
+Lien pour le repository des TD : https://github.com/heigvd-tin-Info2-TIN-1-C/TD.
+
 # Activités cours/labo
 | Date | Activité | Commentaire |
 |---|---|---|
 |18-02-2020 | Présentation, installation github/docker | terminer l'installation par soi-même |
 |20-02-2020 | Labo01 |  |
+|25-02-2020 | Introduction aux fichiers textes |  |
