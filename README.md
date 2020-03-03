@@ -16,3 +16,4 @@ Lien pour le repository des TD : https://github.com/heigvd-tin-Info2-TIN-1-C/TD.
 |25-02-2020 | Introduction aux fichiers textes |  |
 |27-02-2020 | Fichiers textes (suite) |  |
 |27-02-2020 | Labo01 (2/2)  |  |
+|03-03-2020 | Introduction aux fichiers binaires |  |
