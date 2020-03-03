@@ -12,6 +12,7 @@ Lien pour le repository des TD : https://github.com/heigvd-tin-Info2-TIN-1-C/TD.
 | Date | Activité | Commentaire |
 |---|---|---|
 |18-02-2020 | Présentation, installation github/docker | terminer l'installation par soi-même |
-|20-02-2020 | Labo01 |  |
+|20-02-2020 | Labo01 (1/2) |  |
 |25-02-2020 | Introduction aux fichiers textes |  |
-|27-02-2020 |  Fichiers textes (suite) |  |
+|27-02-2020 | Fichiers textes (suite) |  |
+|27-02-2020 | Labo01 (2/2)  |  |
