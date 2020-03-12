@@ -19,3 +19,4 @@ Lien pour le repository des TD : https://github.com/heigvd-tin-Info2-TIN-1-C/TD.
 |03-03-2020 | Introduction aux fichiers binaires |  |
 |05-03-2020 | Labo02 (1/2) |  |
 |10-03-2020 | Lecture entête de fichier binaire type Wave|  |
+|12-03-2020 | Classe de stockage ; allocation dynamique de mémoire|  |
