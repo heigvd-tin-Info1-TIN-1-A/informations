@@ -27,3 +27,5 @@ Lien pour le repository des TD : https://github.com/heigvd-tin-Info2-TIN-1-C/TD.
 |31-03-2020 | Traitement de texte et allocation dynamique de mémoire (3) |  |
 |02-04-2020 | Labo03 (2/2) |  |
 |06-04-2020 | Preprocessor |  |
+|09-04-2020 | Preprocessor, Recursivity |  |
+|09-04-2020 | Labo04 (1/2) |  |
