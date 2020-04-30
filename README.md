@@ -30,3 +30,7 @@ Lien pour le repository des TD : https://github.com/heigvd-tin-Info2-TIN-1-C/TD.
 |09-04-2020 | Preprocessor, Recursivity |  |
 |09-04-2020 | Labo04 (1/2) |  |
 |21-04-2020 | Unions, Structures, Enum |
+|21-04-2020 | Unions, Structures, Enum |
+|23-04-2020 | Labo04 (2/2) |  |
+|28-04-2020 | Getopt_long |
+|30-04-2020 | Labo05 (1/2) |
