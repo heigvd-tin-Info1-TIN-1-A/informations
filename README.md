@@ -35,4 +35,7 @@ Lien pour le repository des TD : https://github.com/heigvd-tin-Info2-TIN-1-C/TD.
 |28-04-2020 | Getopt_long |
 |30-04-2020 | Labo05 (1/2) |
 | 05-05-2020 | Separate compilation |  
+| 07-05-2020 | Labo06 |  
 | 12-05-2020 | Separate compilation |  
+| 14-05-2020 | List with fixed size table |  
+| 14-05-2020 | Labo06 |  
