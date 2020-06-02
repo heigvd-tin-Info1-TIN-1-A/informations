@@ -40,4 +40,6 @@ Lien pour le repository des TD : https://github.com/heigvd-tin-Info2-TIN-1-C/TD.
 | 14-05-2020 | List with fixed size table |  
 | 14-05-2020 | Labo06 |  
 | 19-05-2020 | List with fixed size table |  
-| 26-05-2020 | List with dynamic size table |  
+| 26-05-2020 | List with dynamic size table |
+| 02-06-2020 | Linked list |
+
